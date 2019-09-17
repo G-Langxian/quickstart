@@ -12,5 +12,6 @@
   </head>
   <body>
   后面是个链接<a href="my.jsp">点这里</a>
+  web 很酷
   </body>
 </html>
